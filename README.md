@@ -1,4 +1,11 @@
-
+ About me💫
+🎓 BCA Student
+💻 Tech Enthusiast & Passionate Learner
+🚀 Interested in Software Development, Web Development & Technical Skills
+🛠️ Working on Real-World Projects to improve practical knowledge
+📚 Currently learning new technologies and improving coding skills
+🌱 Always curious to explore innovative ideas and modern tech
+⚡ Goal: To become a skilled developer and build impactful solutions
 
 
 ## 🌐 Socials:
