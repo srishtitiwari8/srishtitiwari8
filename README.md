@@ -1,3 +1,4 @@
+About me 💫 
  🎓 BCA Student  
 💻 Tech Enthusiast & Passionate Learner  
 🚀 Interested in Software Development, Web Development & Technical Skills  
