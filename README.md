@@ -1,12 +1,10 @@
- About me💫
-🎓 BCA Student
-💻 Tech Enthusiast & Passionate Learner
-🚀 Interested in Software Development, Web Development & Technical Skills
-🛠️ Working on Real-World Projects to improve practical knowledge
-📚 Currently learning new technologies and improving coding skills
-🌱 Always curious to explore innovative ideas and modern tech
-⚡ Goal: To become a skilled developer and build impactful solutions
-
+ 🎓 BCA Student  
+💻 Tech Enthusiast & Passionate Learner  
+🚀 Interested in Software Development, Web Development & Technical Skills  
+🛠️ Working on Real-World Projects to improve practical knowledge  
+📚 Currently learning new technologies and improving coding skills  
+🌱 Always curious to explore innovative ideas and modern tech  
+⚡ Goal: To become a skilled developer and build impactful solutions 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srishti-tiwari-5744592a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Srishti tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanskartiwari2613@gmail.com) 
