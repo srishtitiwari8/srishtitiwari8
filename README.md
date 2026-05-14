@@ -1,5 +1,4 @@
-# 💫 About Me:
-AI/ML-based real-world projects using Python<br>Building desktop applications with Tkinter<br>Implementing machine learning models into practical applications<br> AI & Machine Learning projects<br>Python + Tkinter desktop applications<br>Real-world problem-solving projects using ML algorithms<br> Advanced Machine Learning algorithms<br>Deep Learning basics<br>Python automation & GUI development<br>Data preprocessing, feature engineering & model optimization<br> Python Programming<br>Machine Learning & AI concepts<br>Tkinter GUI development<br>Turning ML models into real-world applications<br>I love converting data into intelligent applications 🤖<br>Every ML bug teaches me something new 🧠<br>Code + AI = endless possibilities 🚀
+
 
 
 ## 🌐 Socials:
